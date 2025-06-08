@@ -1,6 +1,2 @@
-<script>
-	import Header from '../Header.svelte';
-</script>
-
-<Header name="Header" />
-<h1>About</h1>
+<h1>About Page</h1>
+<p>This is the about page</p>
