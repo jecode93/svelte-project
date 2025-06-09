@@ -1,4 +1,4 @@
-import { posts } from './data';
+import { posts } from '$lib/data';
 
 export function load() {
 	return {
